@@ -17,7 +17,6 @@ Create a sistem that connect to a wifi and expose that to a lan port.
 * PC
 * something to connect micro sd to your PC
 ### Create operative sistem micro sd
-First of obtain Raspbian.
 * [download](https://www.raspberrypi.org/downloads/raspbian/) Raspbian Stretch with desktop
 * use a micro sd with 8GB or more
 * download and install [etcher](https://etcher.io/)
