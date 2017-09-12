@@ -66,16 +66,16 @@ and insert `iptables-restore < /etc/iptables.ipv4.nat`
 * `sudo service dnsmasq start`
 * `sudo reboot`
 
-## Before connect your pc to ethernet Hub
-set IPv4 in the pc that will use it
+## Before connect your PC to ethernet Hub
+set IPv4 in the PC that will use it
 * IP: a casual in the selected range es: 169.254.216.51
 * mask: 255.255.0.0
 * gateway: 169.254.216.3    `IP ethernet Raspberry`
 * DNS 1: 8.8.8.8 `google DNS`
 * DNS 2: 8.8.4.4
 
-## Connect your pc
-now you can connect your pc to the ethernet Hub
+## Connect your PC
+now you can connect your PC to the ethernet Hub
     
 # Bibliography
 * [Raspberry forum: Pi as wireless bridge?](file:///home/mint/Scrivania/Mega/RaspberryPi/BridgeWork/Pi%20as%20wireless%20bridge_%20-%20Raspberry%20Pi%20Forums.html)
