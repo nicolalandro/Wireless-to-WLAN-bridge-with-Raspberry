@@ -35,7 +35,8 @@ Create a sistem that connect to a wifi and expose that to a lan port.
 * open a terminal (ctrl + alt + t)
 * modify the /etc/wpa_supplicant/wpa_supplicant.conf \
 `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf` \
- as in the [wpa_supplicant.conf file](https://github.com/nicolalandro/Wireless-to-WLAN-bridge-with-Raspberry/blob/master/wpa_supplicant.conf), remember to modify it with your wow fi credential
+ as in the [wpa_supplicant.conf file](https://github.com/nicolalandro/Wireless-to-WLAN-bridge-with-Raspberry/blob/master/wpa_supplicant.conf), remember to modify it with your wow fi credential \
+(if you do not want to connect to wow fi, change this file with your network conf)
 * remove the old wlan0 file \
 `sudo rm /var/run/wpa_supplicant/wlan0`
 * Try this command \
