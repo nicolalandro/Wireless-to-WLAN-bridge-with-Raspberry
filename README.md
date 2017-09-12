@@ -78,7 +78,7 @@ set IPv4 in the PC that will use it
 now you can connect your PC to the ethernet Hub
     
 # Bibliography
-* [Raspberry forum: Pi as wireless bridge](file:///home/mint/Scrivania/Mega/RaspberryPi/BridgeWork/Pi%20as%20wireless%20bridge_%20-%20Raspberry%20Pi%20Forums.html)
+* [Raspberry forum: Pi as wireless bridge?](file:///home/mint/Scrivania/Mega/RaspberryPi/BridgeWork/Pi%20as%20wireless%20bridge_%20-%20Raspberry%20Pi%20Forums.html)
 * [Raspberry forum: How To: Wifi to Ethernet Bridge(Updated for RPi 3)](https://www.raspberrypi.org/forums/viewtopic.php?t=132674)
 * [Chaucery Blog: Raspberry Pi wireless bridge](http://blog.chaucery.com/2013/02/raspberry-pi-wireless-bridge.html)
 * [Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)
